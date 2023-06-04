@@ -1,0 +1,53 @@
+/* navbar */
+.complexui{
+    padding-left: 70px;
+}
+.submit{
+    margin-right: 70px;
+}
+/* carousel  */
+.carousel-img{
+ color: white;
+
+
+}
+
+/*  3 pictures */
+.pics-three{
+    justify-content: space-around;
+}
+
+/* 9-pics */
+.pic-four{
+    height:367px;
+}
+/* 3 Cards */
+.cards-three{
+    margin: 25px;
+}
+.btn{
+    color: white;
+    background-color: rgb(49, 49, 208);
+}
+/* Footer */
+footer{
+    background-color: rgb(246, 248, 250);
+    background-color: none;
+    padding: 12px 0 50px 0;
+}
+.footer-col{
+    display: flex;
+    justify-content: space-evenly;
+    /* border-style: none; */
+
+
+}
+.copr{
+    padding-left: 25px;
+    
+}
+#footer-line{
+    display: flex;
+    padding-left: 50px;
+    justify-content: space-between;
+}
